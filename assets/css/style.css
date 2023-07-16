@@ -668,6 +668,15 @@
         .rec {
             font-size: 13px;
         }
+        .inf {
+            font-size: 13px;
+        }
+    }
+    
+    @media (max-width:559px) {
+        .exp {
+            font-size: 13px;
+        }
     }
     
     @media (max-width:541px) {
@@ -758,6 +767,12 @@
             font-size: 14px;
             color: white;
             margin-top: 30px;
+        }
+    }
+    
+    @media (max-width:419px) {
+        .ipsum {
+            font-size: 12px;
         }
     }
     
