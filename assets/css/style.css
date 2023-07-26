@@ -693,9 +693,21 @@
         }
     }
     
+    @media (max-width:533px) {
+        .exp {
+            font-size: 14px;
+        }
+    }
+    
     @media (max-width:517px) {
         .read2 {
             margin-left: 170px;
+        }
+    }
+    
+    @media (max-width:497px) {
+        .exp {
+            font-size: 13px;
         }
     }
     
